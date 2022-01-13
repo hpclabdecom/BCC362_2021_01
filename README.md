@@ -12,4 +12,5 @@ repositório de armazenamento de artefatos de todos os grupos de SD (BCC362) - s
 ## Grupo 9 - Carlos Eduardo, Carlos Gabriel e Vinícius Verona
 ## Grupo 10 - Alessandro D'Angelo, Pedro Marra, Mateus Pevidor
 ## Grupo 11 - Rodrigo Gomes
+## Grupo 12 - Alexsandro Nunes, Luka Menin, Vivyann Cedraz
 ## Grupo 15 - Gustavo Presoti, e Vinícius Santana
